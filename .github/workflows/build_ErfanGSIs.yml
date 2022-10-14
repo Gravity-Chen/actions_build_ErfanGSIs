@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/crosshatch-rq3a.211001.001-factory-9d99e161.zip
-  ROM_NAME: pixel
+  ROM_URL: https://aechozpmh7vb5n2z.node.ppio.cloud:2777/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16s_Pro/8.1.8.0/cn/20220925143029/569ef7f6/update.zip?f_ver=v1&max_age=7776000&r=CQMeRDtDZ1Y%2FEEsaNTUrNk8aD10yDGYaNhQWMSsmNCQABQ8bDhUxFDxWCEExCwkhDlhSGnlXcFdpVloZbWZpYVNHUwZ9SHxKaUsAWHdiYDYHQAwCZww4HTgNXFk4PSkOBw9aKx0mSDYJXBkhMDdi&ppiouid=6349582867bb4c00018906687b74aad4&ppio_auth=63495828__0_2320c483b23a9fd6287b798e2f767414
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
